@@ -21,4 +21,4 @@ client.on('disconnect', () => {
     client.destroy()
 })
 
-client.login('ODAxMjMxNTMxOTAwMTQxNjQ4.YAdrAw.9xdPIo-dqRZlUemoQblIrPjtEcY')
+client.login('token-here')
